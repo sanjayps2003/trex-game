@@ -1,1 +1,2 @@
-# trex-game
+# trex
+trex
